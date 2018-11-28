@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#left {
+border: solid 1px lightblue;
+flex-basis: 50%;
+
+}
+
+#right {
+    border: solid 1px lightcoral;
+    flex-basis: 50%
+}
+
