@@ -1,17 +1,16 @@
-body {
+#article-container {
     display: flex;
     flex-direction: row;
 
 }
 
-#left {
+#article1 {
 border: solid 1px lightblue;
 flex-basis: 50%;
 
 }
 
-#right {
+#article2 {
     border: solid 1px lightcoral;
     flex-basis: 50%
 }
-
